@@ -40,8 +40,21 @@ Visualize various aspects in Pizza Sales data to gain insights and understand ke
 
 **IV. Procedures:** 
 
-1. Importing Data into Sql Server
-2. Performed Sql Queries 
+1. **Importing Data into Sql Server**
+
+2. **Performed Sql Queries**
+     I. **Sql Queries for KPI's.**
+     II. **Sql Queries for Daily & Monthly Trend**
+     III. **Sql Queries for Percentage of Sales by Category & Size**
+     IV. **Sql Queries for Top 5 & Bottom 5**
+
+3. **Connecting Power-BI to Sql DB**
+4. **Data Cleaning using Power Query**
+5. **Data Processing in Power-BI**
+6. **Building Daily & Monthly Trend Charts**
+7. **Building Percentage of Sales by Category & size**
+8. **Adding Insights**
+9. **Adding Navigator Buttons**
 
 
 
