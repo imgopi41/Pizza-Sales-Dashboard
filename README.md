@@ -59,7 +59,12 @@ Imported CSV file to excel. Performed various activities like checking for dupli
 
 👉**Insights:** Extracting valuable information to drive growth.
 
-**VI. Applications & Future enhancements**
+**VI. Demo**
+
+![Home ](https://github.com/imgopi41/Pizza-Sales-Dashboard/assets/99798157/9325abfb-ebfc-41a6-94a4-81ad8a6d682e)
+
+
+**VII. Applications & Future enhancements**
 
 An Interactive personalized Dashboards and reports on Pizza Sales has created. This type of Dashboards shows you the improvement and growth of your Sales, Displaying of your sales can 
 be yearly, Monthly, Weekly, Daily and also sales can be calculated by hourly wise too. Widely used to show the reports of company sales in Pictorial format which helps clients to 
