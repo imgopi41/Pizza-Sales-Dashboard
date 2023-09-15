@@ -40,9 +40,9 @@ Visualize various aspects in Pizza Sales data to gain insights and understand ke
 
 **IV. Procedures:** 
 
-**Data Gathering & Data Cleaning:**
+1. Importing Data into Sql Server
+2. Performed Sql Queries 
 
-Imported CSV file to excel. Performed various activities like checking for duplicates & removing it, And transforming the data into a format that can be easily analyzed.
 
 
 **V. Steps involved in this Analysis:**
