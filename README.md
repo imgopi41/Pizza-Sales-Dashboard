@@ -1,7 +1,7 @@
 **I. Descirption**
 
-This is Pizza Sales Dashboard created to Analyze the total sales different types Pizza's in the store. 
-The Project is implemented by using Excel, SQl Server, and PowerBi.
+This is Pizza Sales Dashboard created to Analyze the total sales on different types of Pizza's in the store. 
+Project is implemented by using Excel, SQl Server, and PowerBi.
 
 **II. Technology Stack**
 
@@ -38,4 +38,30 @@ Visualize various aspects in Pizza Sales data to gain insights and understand ke
 
 7. **Bottom 5 Best Sellers by Revenue, Total Quantity & Total Orders**:  Create a bar chart showcasing the Buttom 5 worst selling Pizza's  based on the Revenue, Total Quantity, Total Orders. This chart will enable us to identify underperforming or less popular pizza options.
 
+**IV. Procedures:** 
+
+**Data Gathering & Data Cleaning:**
+
+Imported CSV file to excel. Performed various activities like checking for duplicates & removing it, And transforming the data into a format that can be easily analyzed.
+
+
+**V. Steps involved in this Analysis:**
+
+👉 **Data Gathering** : I have imported CSV file to Excel.
+
+👉 **Data Cleaning:** Ensuring accurate and reliable results.
+
+👉**Data Processing:** Transforming raw data into a structured format.
+
+👉**Data Analysis:** Uncovering Patterns, Trends, and correlations.
+
+👉**Interactive Dashboard:** Presenting the findings in a visually appealing manner.
+
+👉**Insights:** Extracting valuable information to drive growth.
+
+**VI. Applications & Future enhancements**
+
+An Interactive personalized Dashboards and reports on Pizza Sales has created. This type of Dashboards shows you the improvement and growth of your Sales, Displaying of your sales can 
+be yearly, Monthly, Weekly, Daily and also sales can be calculated by hourly wise too. Widely used to show the reports of company sales in Pictorial format which helps clients to 
+understand sales in depth
 
