@@ -92,9 +92,18 @@ i.e ( Avg Pizza Per Order = [ Total Pizza sold ] / [ Total order] )
 
 **Data Processing in Power BI**
 
+1. Converted Date into day to display day name by using order date, From Day name i have took only first three letter to display "Monday" to "Mon".
 
+Dax Query : Order day = Upper Left (( Pizza Sales ) [ Day name] , 3))
 
+2. New Column has been created in the name of "Day Number" to display the Day number with respect to Day.
+   Eg : Sunday day number is shown as 1 followed by other days too.
 
+3. From Date i have Extracting Month from Order date in Pizza Sales by adding new column.
+
+4.Dax Query has been written for extracting only 3 letters from month a new column has been created in the name of "Order Month" to display "January" to "Jan" this "Jan" is now stored in new column
+
+i.e Order Month = upper( Left ( Pizza Sales [ Month Name] ,3 )) 
 
 
 **VII. Demo**
