@@ -72,12 +72,37 @@ Visualize various aspects in Pizza Sales data to gain insights and understand ke
 
 👉**Insights:** Extracting valuable information to drive growth.
 
-**VI. Demo**
+
+**VI. Data Cleaning using DAX Queries**
+
+1. Replaced values for Pizza Size initially it was single Letter changed it with its names i.e ( M = "Medium")
+
+2. To total Orders of Pizza by Order Id Dax Query was written
+i.e [ Total Orders = Distinct Count (Pizza Sales [Order id]) ]
+
+3. To check average amount spent per order was calculated by dividing it with total revenue
+i.e [Avg Order Value = [ Total Revenue ] / [ Total Orders ] ]
+
+4. To get Sum of Pizza Quantities of all Pizza Sold
+i.e ( Total Pizza Sold = Sum (Pizza sales [ Quantity ] ))
+
+5. To calculate Avg Number of Pizza's sold per order, & also Calculated it by dividing it with total number of Pizza sold by the total number of orders.
+i.e ( Avg Pizza Per Order = [ Total Pizza sold ] / [ Total order] )
+
+
+**Data Processing in Power BI**
+
+
+
+
+
+
+**VII. Demo**
 
 ![Home ](https://github.com/imgopi41/Pizza-Sales-Dashboard/assets/99798157/9325abfb-ebfc-41a6-94a4-81ad8a6d682e)
 
 
-**VII. Applications & Future enhancements**
+**VIII. Applications & Future enhancements**
 
 An Interactive personalized Dashboards and reports on Pizza Sales has created. This type of Dashboards shows you the improvement and growth of your Sales, Displaying of your sales can 
 be yearly, Monthly, Weekly, Daily and also sales can be calculated by hourly wise too. Widely used to show the reports of company sales in Pictorial format which helps clients to 
